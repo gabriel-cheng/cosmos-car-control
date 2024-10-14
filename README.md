@@ -3,7 +3,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://cosmosenterprise.vercel.app/assets/images/logo/logotipo-800x375.png" alt="Cosmos Enterprise logotype">
+  <img src="https://cosmosenterprise.vercel.app/assets/images/logo/logotipo-800x375_white.png" alt="Cosmos Enterprise logotype">
 </p>
 
 <br><br>
