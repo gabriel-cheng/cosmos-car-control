@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 42px; font-weight: bolder;">COSMOS CAR CONTROL</p>
+<h1 align="center">COSMOS CAR CONTROL</h1>
 
 <br><br>
 
