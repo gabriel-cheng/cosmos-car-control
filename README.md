@@ -1,6 +1,10 @@
-<div style="display: flex; justify-content: center;">
-  <h1><span style="color: #d11141">COSMOS</span> CAR CONTROL</h1>
-</div>
+<p align="center" style="font-size: 42px; font-weight: bolder;">COSMOS CAR CONTROL</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://cosmosenterprise.vercel.app/assets/images/logo/logotipo-800x375.png" alt="Cosmos Enterprise logotype">
+</p>
 
 <br><br>
 
@@ -66,9 +70,3 @@ $user docker-compose up
 ## ✒️ Autor
 
 * **Gabriel Carvalho** - *Desenvolvedor FullStack* - >> [Acessar LinkedIn](https://linkedin.com/in/gabriel-henrique-ita) <<
-
-<br><br>
-
-<div style="display: flex; justify-content: center;">
-    <img src="https://cosmosenterprise.vercel.app/assets/images/logo/logotipo-800x375.png" alt="Cosmos Enterprise logotype">
-</div>
