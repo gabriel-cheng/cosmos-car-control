@@ -10,7 +10,7 @@
 
 # Sobre o projeto
 
-O projeto tem como objetivo gerenciar a entrada e saída de veículos em estacionamentos privados de maneira eficiente e precisa. Desenvolvido com tecnologias modernas, como **Node.js**, **Vue.js** e **PostgreSQL**, o sistema visa garantir um controle rigoroso e confiável, minimizando ao máximo a ocorrência de erros. A solução é projetada para oferecer alto desempenho e praticidade, proporcionando uma experiência otimizada e segura para os usuários e administradores.
+O projeto tem como objetivo gerenciar o aluguel de veículos de empresas que oferecem esse tipo de serviço de forma eficiente e precisa. Desenvolvido com tecnologias modernas, como **Node.js**, **Vue.js** e **PostgreSQL**, o sistema visa garantir um controle rigoroso e confiável, minimizando ao máximo a ocorrência de erros. A solução é projetada para oferecer alto desempenho e praticidade, proporcionando uma experiência otimizada e segura para os usuários e administradores.
 
 # Instalações e testes
 
